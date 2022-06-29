@@ -1,11 +1,4 @@
 
-/*
- * hawk.cpp
- *
- *  Created on: Jun 28, 2014
- *      Author: kamath
- */
-//#include<windows.h>
 
 #include<GL/glut.h>
 #include<math.h>
@@ -484,8 +477,8 @@ void display()
 	glColor3f(1.0,1.0,1.0);
 	Sprint(30,55,"Project by:");
 	glColor3f(.0,0.0,1.0);
-	Sprint(40,35,"RAMACHANDRA BHAT");
-	Sprint(40,15,"RAKSHITH M.N.");
+	Sprint(40,35,"SHRABONI BANERJEE");
+	Sprint(40,15,"CSE, 6TH SEM");
 //CODE FOR BALL AND ITS TRANSLATION
     if(ball==1.0)
 	{
